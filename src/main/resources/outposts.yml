@@ -1,0 +1,21 @@
+outposts:
+  money:
+    # boost is a percentage e.g. 2.0 means they will get an extra 2% money>
+    moneyBoost: 2.0
+    outpostWorld: "world"
+    corner1-x: 1
+    corner1-y: 1
+    corner1-z: 1
+    corner2-x: 2
+    corner2-y: 2
+    corner2-z: 2
+  spawner:
+    # boost is a percentage e.g. 2.0 means they will get an extra 2% spawn rate>
+    spawnerBoost: 2.0
+    outpostWorld: "world"
+    corner1-x: 1
+    corner1-y: 1
+    corner1-z: 1
+    corner2-x: 2
+    corner2-y: 2
+    corner2-z: 2

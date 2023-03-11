@@ -1,0 +1,7 @@
+outpost-messages:
+  outpostAttackBroadcast: "The <outpostName> outpost is under attack!"
+  outpostClaimBroadcast: "The <outpostName> outpost in now owned by <islandName>"
+  playerOutpostAttackingTitle: "The <outpostName> is currently owned by <islandName>"
+  playerOutpostAttackingSubtitle: "<seconds> Left until you defeat them!"
+  playerOutpostAttackIslandNotifion: "Your <outpostName> outpost is being attacked!!"
+  playerOutpostClaimIslandNotifion: "Your <outpostName> outpost had been stolen by <newOwners>"
